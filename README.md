@@ -32,3 +32,13 @@
  <p>For this activity, I learned how to use MySQL and how to create queries to link different tables together. Additionally, I used ChatGPT to ask a few questions in regards to asyncronos methods in order to obtain the information better.</p>
 
  <p>I do recognize that maybe using classes the code might be reduced and additional function can be added but I needed more time to add them.</p>
+
+
+<h2><strong>Videos</strong></h2>
+<p>Code:</p>
+
+[Quick view on the code.webm](https://user-images.githubusercontent.com/112662397/222517010-c8652ab6-9d83-4b49-bec7-02775081d92f.webm)
+
+<p>Application Working:</p>
+
+[Codeworking.webm](https://user-images.githubusercontent.com/112662397/222517111-74f81f34-3c13-44f8-a9ed-422d28feace2.webm)
